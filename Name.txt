@@ -1,3 +1,7 @@
 Tebriz
 necefov
+<<<<<<< HEAD
 necesiz
+=======
+telebe
+>>>>>>> 773445ff3414280da2c6b1503137d0b5a9934369
